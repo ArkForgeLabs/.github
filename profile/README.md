@@ -1,4 +1,4 @@
-# ⚙️ ArkForge Labs
+# ⚙️ ArkForge LLC
 
 Building the postmodern software. We live on the cutting edge, trying to build highly customizable, portable, and easy to use software.
 
