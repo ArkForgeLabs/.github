@@ -8,4 +8,6 @@ Most of our core software is open sourced here and on [AryanpurTech](https://git
 
 ## 🔗 Links
 * [Discord](https://discord.gg/6PMjUx8x3b)
-
+* [Instagram](https://instagram.com/arkforge_labs)
+* [TikTok](https://www.tiktok.com/@arkforge)
+* [Website](https://arkforge.net)
