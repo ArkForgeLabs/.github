@@ -7,7 +7,7 @@ Building the postmodern software. We live on the cutting edge, trying to build h
 Most of our core software is open sourced here and on [AryanpurTech](https://github.com/AryanpurTech) to give back to the community and build trust. There are plans to have source open for the rest in the future as well in the spirit of transparency and extendability. We just need to figure some legal stuff out beforehand.
 
 ## 🔗 Links
-* [Discord](https://discord.gg/6PMjUx8x3b)
+* [Website](https://arkforge.net)
 * [Instagram](https://instagram.com/arkforge_labs)
 * [TikTok](https://www.tiktok.com/@arkforge)
-* [Website](https://arkforge.net)
+* [Linkedin](https://www.linkedin.com/company/arkforge-llc)
